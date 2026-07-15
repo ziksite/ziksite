@@ -1,5 +1,3 @@
-# Dzikri Ramadhan
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+digital+products+that+feel+premium.;Crafting+websites%2C+systems%2C+and+automation.;Designing+with+clarity%2C+speed%2C+and+purpose." alt="Typing SVG" />
