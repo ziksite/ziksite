@@ -13,7 +13,7 @@
   <a href="https://wa.me/6289630557191"><img src="https://img.shields.io/badge/START_A_PROJECT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Start a project on WhatsApp" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=dzikri&style=flat-square&color=7C3AED&label=PROFILE+EXPLORERS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ziksite&style=flat-square&color=7C3AED&label=PROFILE+EXPLORERS" alt="Profile views" />
 
 </div>
 
@@ -25,14 +25,7 @@ Today, I lead technology initiatives at **Banana Digital Boost**, build IT syste
 
 <br />
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=115&color=0:7C3AED,50:4F46E5,100:06B6D4&text=5%2B%20YEARS%20%E2%80%A2%2023%20PROJECTS%20%E2%80%A2%2017%20LIVE%20BUILDS%20%E2%80%A2%204%20DISCIPLINES&fontColor=FFFFFF&fontSize=25&fontAlignY=50&animation=fadeIn" alt="5+ years, 23 projects, 17 live builds, and 4 disciplines" />
-  <sub>AI Automation · Internal Systems · Web Applications · Business Websites</sub>
-</div>
-
-<br />
-
-<img width="100%" src="./assets/build-system.svg" alt="Animated diagram showing Dzikri turning business problems into AI, systems, applications, and websites" />
+<img width="100%" src="./assets/trust-metrics.svg" alt="5+ years of experience, 23 selected projects, 17 live builds, and 4 solution disciplines" />
 
 ## What I build
 
@@ -128,9 +121,9 @@ My work has moved from hands-on technical support and network planning into UI/U
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzikri/dzikri/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzikri/dzikri/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="Animated snake moving through Dzikri's contribution graph" src="https://raw.githubusercontent.com/dzikri/dzikri/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziksite/ziksite/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ziksite/ziksite/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Animated snake moving through Dzikri's contribution graph" src="https://raw.githubusercontent.com/ziksite/ziksite/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
