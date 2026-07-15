@@ -25,7 +25,30 @@ Today, I lead technology initiatives at **Banana Digital Boost**, build IT syste
 
 <br />
 
-<img width="100%" src="./assets/trust-metrics.svg" alt="5+ years of experience, 23 selected projects, 17 live builds, and 4 solution disciplines" />
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <h1>5+</h1>
+      <b>Years</b><br />
+      <sub>2020 — Present</sub>
+    </td>
+    <td width="25%" align="center">
+      <h1>23</h1>
+      <b>Projects</b><br />
+      <sub>Documented builds</sub>
+    </td>
+    <td width="25%" align="center">
+      <h1>17</h1>
+      <b>Live Builds</b><br />
+      <sub>Shipped to production</sub>
+    </td>
+    <td width="25%" align="center">
+      <h1>4</h1>
+      <b>Disciplines</b><br />
+      <sub>AI · Systems · Apps · Web</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><sub>Figures are derived from the projects and career timeline documented in my portfolio source.</sub></p>
 
@@ -118,17 +141,6 @@ Today, I lead technology initiatives at **Banana Digital Boost**, build IT syste
 ```
 
 My work has moved from hands-on technical support and network planning into UI/UX, product development, automation, system integration, and technology leadership. That range helps me see both the interface people use and the infrastructure that keeps the business moving.
-
-## GitHub activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dzikri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&ring_color=7C3AED" alt="Dzikri's GitHub statistics" />
-  <img height="170" src="https://streak-stats.demolab.com?user=dzikri&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Dzikri's GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dzikri&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=My%20Contribution%20Orbit" alt="Dzikri's contribution activity graph" />
-</div>
 
 ## Watch my contributions get eaten 🐍
 
