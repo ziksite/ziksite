@@ -89,7 +89,20 @@ Today, I lead technology initiatives at **Banana Digital Boost**, build IT syste
 
 ## Technology I use to ship
 
-<img width="100%" src="./assets/tech-orbit.svg" alt="Next.js, WordPress, n8n, OpenAI, and PostgreSQL orbiting around Dzikri's build and ship workflow" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,nodejs,tailwind,bootstrap,laravel,wordpress&theme=dark&perline=12" alt="Core languages, frameworks, and CMS tools" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,figma,postman,vercel,cloudflare,vscode&theme=dark&perline=8" alt="Databases, design, development, and deployment tools" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AUTOMATION-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/AI-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/AI-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+</div>
 
 ## Career signal
 
