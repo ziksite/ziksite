@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Dzikri's technology orbit</title>
+  <desc id="desc">Next.js, WordPress, n8n, OpenAI, and PostgreSQL orbit around Dzikri's build and ship workflow.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset=".5" stop-color="#15102A"/>
+      <stop offset="1" stop-color="#071B25"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .orbit { transform-origin:600px 180px; animation:spin 26s linear infinite; }
+    .ring { transform-origin: 600px 180px; animation: pulse 3.2s ease-in-out infinite; }
+    .signal { stroke-dasharray: 8 12; animation: signal 5s linear infinite; }
+    @keyframes spin { to { transform:rotate(360deg); } }
+    @keyframes pulse { 0%,100% { opacity:.35; transform:scale(.97); } 50% { opacity:.8; transform:scale(1.03); } }
+    @keyframes signal { to { stroke-dashoffset:-80; } }
+    @media (prefers-reduced-motion: reduce) { .orbit,.ring,.signal { animation:none; } }
+  </style>
+
+  <rect width="1200" height="400" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="398" rx="17" fill="none" stroke="#30363D" stroke-width="2"/>
+  <circle cx="600" cy="180" r="125" fill="none" stroke="#30363D" stroke-width="2"/>
+  <circle class="signal" cx="600" cy="180" r="125" fill="none" stroke="#22D3EE" stroke-width="2" opacity=".55"/>
+  <circle class="ring" cx="600" cy="180" r="92" fill="none" stroke="#7C3AED" stroke-width="3" filter="url(#glow)"/>
+  <circle cx="600" cy="180" r="76" fill="url(#core)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="172" fill="#FFFFFF" font-size="25" font-weight="800" letter-spacing="2">DZIKRI</text>
+    <text x="600" y="202" fill="#E0F2FE" font-size="13" font-weight="700" letter-spacing="3">BUILD &amp; SHIP</text>
+  </g>
+
+  <!-- Next.js -->
+  <g transform="rotate(0 600 180)"><g class="orbit"><g transform="translate(600 55)">
+    <circle r="41" fill="#111827" stroke="#FFFFFF" stroke-width="2"/>
+    <path transform="translate(-20 -20) scale(1.67)" fill="#FFFFFF" d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z"/>
+  </g></g></g>
+
+  <!-- WordPress -->
+  <g transform="rotate(72 600 180)"><g class="orbit"><g transform="translate(600 55)">
+    <circle r="41" fill="#21759B" stroke="#7DD3FC" stroke-width="2"/>
+    <path transform="translate(-20 -20) scale(1.67)" fill="#FFFFFF" d="M21.469 6.825c.84 1.537 1.318 3.3 1.318 5.175 0 3.979-2.156 7.456-5.363 9.325l3.295-9.527c.615-1.54.82-2.771.82-3.864 0-.405-.026-.78-.07-1.11m-7.981.105c.647-.03 1.232-.105 1.232-.105.582-.075.514-.93-.067-.899 0 0-1.755.135-2.88.135-1.064 0-2.85-.15-2.85-.15-.585-.03-.661.855-.075.885 0 0 .54.061 1.125.09l1.68 4.605-2.37 7.08L5.354 6.9c.649-.03 1.234-.1 1.234-.1.585-.075.516-.93-.065-.896 0 0-1.746.138-2.874.138-.2 0-.438-.008-.69-.015C4.911 3.15 8.235 1.215 12 1.215c2.809 0 5.365 1.072 7.286 2.833-.046-.003-.091-.009-.141-.009-1.06 0-1.812.923-1.812 1.914 0 .89.513 1.643 1.06 2.531.411.72.89 1.643.89 2.977 0 .915-.354 1.994-.821 3.479l-1.075 3.585-3.9-11.61.001.014zM12 22.784c-1.059 0-2.081-.153-3.048-.437l3.237-9.406 3.315 9.087c.024.053.05.101.078.149-1.12.393-2.325.609-3.582.609M1.211 12c0-1.564.336-3.05.935-4.39L7.29 21.709C3.694 19.96 1.212 16.271 1.211 12M12 0C5.385 0 0 5.385 0 12s5.385 12 12 12 12-5.385 12-12S18.615 0 12 0"/>
+  </g></g></g>
+
+  <!-- n8n -->
+  <g transform="rotate(144 600 180)"><g class="orbit"><g transform="translate(600 55)">
+    <circle r="41" fill="#2B1521" stroke="#EA4B71" stroke-width="2"/>
+    <path transform="translate(-20 -20) scale(1.67)" fill="#EA4B71" d="M21.4737 5.6842c-1.1772 0-2.1663.8051-2.4468 1.8947h-2.8955c-1.235 0-2.289.893-2.492 2.111l-.1038.623a1.263 1.263 0 0 1-1.246 1.0555H11.289c-.2805-1.0896-1.2696-1.8947-2.4468-1.8947s-2.1663.8051-2.4467 1.8947H4.973c-.2805-1.0896-1.2696-1.8947-2.4468-1.8947C1.1311 9.4737 0 10.6047 0 12s1.131 2.5263 2.5263 2.5263c1.1772 0 2.1663-.8051 2.4468-1.8947h1.4223c.2804 1.0896 1.2696 1.8947 2.4467 1.8947 1.1772 0 2.1663-.8051 2.4468-1.8947h1.0008a1.263 1.263 0 0 1 1.2459 1.0555l.1038.623c.203 1.218 1.257 2.111 2.492 2.111h.3692c.2804 1.0895 1.2696 1.8947 2.4468 1.8947 1.3952 0 2.5263-1.131 2.5263-2.5263s-1.131-2.5263-2.5263-2.5263c-1.1772 0-2.1664.805-2.4468 1.8947h-.3692a1.263 1.263 0 0 1-1.246-1.0555l-.1037-.623A2.52 2.52 0 0 0 13.9607 12a2.52 2.52 0 0 0 .821-1.4794l.1038-.623a1.263 1.263 0 0 1 1.2459-1.0555h2.8955c.2805 1.0896 1.2696 1.8947 2.4468 1.8947 1.3952 0 2.5263-1.131 2.5263-2.5263s-1.131-2.5263-2.5263-2.5263"/>
+  </g></g></g>
+
+  <!-- OpenAI -->
+  <g transform="rotate(216 600 180)"><g class="orbit"><g transform="translate(600 55)">
+    <circle r="41" fill="#073D35" stroke="#10A37F" stroke-width="2"/>
+    <path transform="translate(-20 -20) scale(1.67)" fill="#FFFFFF" d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.872zm16.5963 3.8558L13.1038 8.364 15.1192 7.2a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.407-.667zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.6802 4.66zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.499 4.499 0 0 1 7.3757-3.4537l-.142.0805-4.7783 2.758a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654 2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z"/>
+  </g></g></g>
+
+  <!-- PostgreSQL -->
+  <g transform="rotate(288 600 180)"><g class="orbit"><g transform="translate(600 55)">
+    <circle r="41" fill="#102A56" stroke="#4169E1" stroke-width="2"/>
+    <ellipse cx="0" cy="-12" rx="20" ry="8" fill="#93C5FD"/>
+    <path d="M-20-12v25c0 4 9 8 20 8s20-4 20-8v-25c0 5-9 9-20 9s-20-4-20-9Z" fill="#4169E1"/>
+    <path d="M-20 0c0 5 9 9 20 9s20-4 20-9" fill="none" stroke="#BFDBFE" stroke-width="3"/>
+    <text x="0" y="17" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="800">PG</text>
+  </g></g></g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="14" font-weight="700">
+    <text x="240" y="365" fill="#FFFFFF">NEXT.JS</text>
+    <text x="420" y="365" fill="#7DD3FC">WORDPRESS</text>
+    <text x="600" y="365" fill="#EA4B71">N8N</text>
+    <text x="780" y="365" fill="#34D399">OPENAI</text>
+    <text x="960" y="365" fill="#93C5FD">POSTGRESQL</text>
+  </g>
+</svg>

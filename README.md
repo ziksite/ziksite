@@ -89,20 +89,7 @@ Today, I lead technology initiatives at **Banana Digital Boost**, build IT syste
 
 ## Technology I use to ship
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,nodejs,tailwind,bootstrap,laravel,wordpress&theme=dark&perline=12" alt="Core languages, frameworks, and CMS tools" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,figma,postman,vercel,cloudflare,vscode&theme=dark&perline=8" alt="Databases, design, development, and deployment tools" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AUTOMATION-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/AI-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/AI-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-</div>
+<img width="100%" src="./assets/tech-orbit.svg" alt="Next.js, WordPress, n8n, OpenAI, and PostgreSQL orbiting around Dzikri's build and ship workflow" />
 
 ## Career signal
 
@@ -117,13 +104,13 @@ Today, I lead technology initiatives at **Banana Digital Boost**, build IT syste
 
 My work has moved from hands-on technical support and network planning into UI/UX, product development, automation, system integration, and technology leadership. That range helps me see both the interface people use and the infrastructure that keeps the business moving.
 
-## Watch my contributions get eaten 🐍
+## Pac-Man is eating my contributions 👾
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziksite/ziksite/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ziksite/ziksite/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="Animated snake moving through Dzikri's contribution graph" src="https://raw.githubusercontent.com/ziksite/ziksite/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziksite/ziksite/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ziksite/ziksite/output/pacman-contribution-graph.svg" />
+    <img width="100%" alt="Animated Pac-Man game moving through Dzikri's contribution graph" src="https://raw.githubusercontent.com/ziksite/ziksite/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
 
