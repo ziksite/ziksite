@@ -54,88 +54,40 @@ Today, I lead technology initiatives at **Banana Digital Boost**, build IT syste
   </tr>
 </table>
 
-## Selected work, measured by outcomes
+## Proof in six seconds
 
-<details open>
-  <summary><b>🤖 AI Sales Agent — WhatsApp automation that never sleeps</b></summary>
+<p align="center">
+  <a href="https://dzikri.ziksite.my.id"><img src="https://img.shields.io/badge/AI_AGENT-24%2F7_AUTO_REPLY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="AI agent with 24/7 automatic replies" /></a>
+  <a href="https://dzikri.ziksite.my.id"><img src="https://img.shields.io/badge/CV_BUILDER-50K%2B_RESUMES-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV builder with more than 50 thousand resumes built" /></a>
+  <a href="https://dzikri.ziksite.my.id"><img src="https://img.shields.io/badge/PURCHASING-200%2B_SKUs-06B6D4?style=for-the-badge&logo=databricks&logoColor=white" alt="Purchasing system tracking more than 200 SKUs" /></a>
+</p>
+
+<p align="center">
+  <a href="https://dzikri.ziksite.my.id"><img src="https://img.shields.io/badge/IT_OPS-30%2B_USERS-F59E0B?style=for-the-badge&logo=jira&logoColor=white" alt="IT operations platform with more than 30 users" /></a>
+  <a href="https://dzikri.ziksite.my.id"><img src="https://img.shields.io/badge/AGENCY_OS-3_TOOLS_%E2%86%92_1-EC4899?style=for-the-badge&logo=clickup&logoColor=white" alt="Agency operating system consolidating three tools into one" /></a>
+  <a href="https://dzikri.ziksite.my.id"><img src="https://img.shields.io/badge/ERP-8_SALES_CHANNELS-4F46E5?style=for-the-badge&logo=postgresql&logoColor=white" alt="ERP unifying eight sales channels" /></a>
+</p>
+
+<p align="center"><sub>Tap any metric to explore the full portfolio.</sub></p>
+
+<details>
+  <summary><b>🧩 Show the technology behind the numbers</b></summary>
   <br />
 
-  A natural-sounding sales agent that answers prospects, qualifies needs, quotes from verified business data, logs leads, and books meetings directly into Google Calendar.
-
-  **24/7 auto-reply** · **Grounded RAG answers** · **Automatic calendar booking**
-
-  `n8n` `OpenAI GPT-4o-mini` `Supabase pgvector` `WAHA` `Google Calendar` `PostgreSQL` `Self-hosted VPS`
-</details>
-
-<details open>
-  <summary><b>📄 CV ATS Builder — an AI resume product built for speed</b></summary>
-  <br />
-
-  A bilingual, AI-assisted resume builder with live preview, one-click optimization, and a clean single-column PDF export designed for applicant tracking systems.
-
-  **50K+ resumes built** · **Under 10 minutes to finish** · **95% reported ATS pass rate**
-
-  `Next.js` `Tailwind CSS` `AI Integration` `PDF Export`
+  `AI Agent` n8n · OpenAI · RAG · WhatsApp · Google Calendar  
+  `CV Builder` Next.js · Tailwind · AI · PDF Export  
+  `Purchasing` Next.js · Redis · REST API · Automated Alerts  
+  `IT Operations` Next.js · Prisma · NextAuth · RBAC  
+  `Agency OS` Next.js · PostgreSQL · Recharts · Realtime Data  
+  `ERP` Next.js · PostgreSQL · Prisma · Automated Reporting
 </details>
 
 <details>
-  <summary><b>📦 Purchasing Intelligence — decisions backed by 200+ SKUs</b></summary>
+  <summary><b>⚡ More shipped outcomes</b></summary>
   <br />
 
-  A purchasing analytics system with reorder-point and EOQ calculations, ABC classification, true COGS, supplier scorecards, and automated stock alerts.
-
-  **200+ SKUs tracked** · **Hourly warehouse sync** · **Automated reorder alerts**
-
-  `Next.js` `Redis` `REST API` `Email & WhatsApp Alerts`
+  **35+ cities** · **21 pages shipped** · **38% faster load** · **95/100 SEO** · **+42% engagement** · **+35% inquiries**
 </details>
-
-<details>
-  <summary><b>🛠️ IT Operations Dashboard — zero lost tickets across two companies</b></summary>
-  <br />
-
-  A structured ticketing and task platform replacing scattered WhatsApp requests and verbal briefs, with workload, priority, and team-performance visibility.
-
-  **2 companies served** · **30+ active users** · **100% of requests tracked as tickets**
-
-  `Next.js` `Prisma` `NextAuth` `Role-based Access`
-</details>
-
-<details>
-  <summary><b>📈 Boost Engine — one operating system for an agency</b></summary>
-  <br />
-
-  An internal agency platform replacing ClickUp, Looker, and fragmented WhatsApp workflows with role-based home screens, project management, client health, and forecasting.
-
-  **3 tools consolidated into 1** · **7 role dashboards** · **8-month revenue forecast**
-
-  `Next.js` `PostgreSQL` `Recharts` `Realtime Data` `Row-level Security`
-</details>
-
-<details>
-  <summary><b>🧠 Foodstocks Hub — one source of truth for an omnichannel business</b></summary>
-  <br />
-
-  An internal ERP unifying sales, reseller CRM, inventory, purchasing, and finance so every team works from the same automatically updated data.
-
-  **8 sales channels unified** · **5 spreadsheets replaced by 1 system** · **Single source of truth**
-
-  `Next.js` `PostgreSQL` `Prisma` `Automated Reporting`
-</details>
-
-### More proof from shipped websites
-
-| Sector / build | Evidence from the project |
-|---|---|
-| Nationwide media agency | **35+ cities** covered across **21 shipped pages** |
-| Defense MRO corporate site | Bilingual **ID / EN**, **95/100 SEO score**, 10-second credibility test |
-| Investment management firm | OJK-regulated context, mobile-ready experience, **95/100 SEO score** |
-| Technology consultancy | Government and BUMN focus with **<2s load time** |
-| Healthcare platform | **38% faster load**, **95/100 SEO score**, 24/7 information access |
-| F&B reseller landing page | **+30% partner signups**, **50+ products**, one-step onboarding |
-| ISP campaign website | **+42% campaign engagement** with **<2s load time** |
-| Digital agency website | **+35% consultation inquiries** and **97/100 performance** |
-
-> Client names and brand identities remain confidential where required. The portfolio focuses on the problem, system, implementation, and outcome.
 
 ## Technology I use to ship
 
