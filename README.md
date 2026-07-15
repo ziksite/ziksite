@@ -1,8 +1,16 @@
+# Dzikri Ramadhan
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+digital+products+that+feel+premium.;Crafting+websites%2C+systems%2C+and+automation.;Designing+with+clarity%2C+speed%2C+and+purpose." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+digital+products+that+feel+premium.;Crafting+websites%2C+systems%2C+and+automation.;Designing+with+clarity%2C+speed%2C+and+purpose." alt="Typing SVG" />
 
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active%20Builder-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%2B%20Automation-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Jakarta%20Selatan-111827?style=for-the-badge" />
+</p>
 
 <p align="center">
   <b>Developer • Designer-minded builder • Automation enthusiast</b>
@@ -12,9 +20,13 @@
   I create high-performance websites, intelligent web apps, and business systems that blend <b>clean design</b>, <b>strong engineering</b>, and <b>smart automation</b>.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dzikri&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 ---
 
-## Core Focus
+## ⚡ Core Focus
 - Modern website development
 - Corporate & landing page systems
 - Custom web applications
@@ -23,7 +35,7 @@
 
 ---
 
-## Stack & Tools
+## 🧠 Stack & Tools
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -47,7 +59,7 @@
 
 ---
 
-## Featured Work
+## 🚀 Featured Work
 - AI WhatsApp Sales Agent
 - CV ATS Builder
 - Purchasing Intelligence System
@@ -56,12 +68,12 @@
 
 ---
 
-## Current State
+## ✨ Current State
 Building products that feel polished, useful, and future-ready.
 
 ---
 
-## Connect
+## 🔗 Connect
 <p align="center">
   <a href="https://ziksite.my.id" target="_blank">Portfolio</a> •
   <a href="mailto:dzikri1990@gmail.com">Email</a> •
