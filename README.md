@@ -25,32 +25,14 @@ Today, I lead technology initiatives at **Banana Digital Boost**, build IT syste
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <h1>5+</h1>
-      <b>Years</b><br />
-      <sub>2020 — Present</sub>
-    </td>
-    <td width="25%" align="center">
-      <h1>23</h1>
-      <b>Projects</b><br />
-      <sub>Documented builds</sub>
-    </td>
-    <td width="25%" align="center">
-      <h1>17</h1>
-      <b>Live Builds</b><br />
-      <sub>Shipped to production</sub>
-    </td>
-    <td width="25%" align="center">
-      <h1>4</h1>
-      <b>Disciplines</b><br />
-      <sub>AI · Systems · Apps · Web</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=115&color=0:7C3AED,50:4F46E5,100:06B6D4&text=5%2B%20YEARS%20%E2%80%A2%2023%20PROJECTS%20%E2%80%A2%2017%20LIVE%20BUILDS%20%E2%80%A2%204%20DISCIPLINES&fontColor=FFFFFF&fontSize=25&fontAlignY=50&animation=fadeIn" alt="5+ years, 23 projects, 17 live builds, and 4 disciplines" />
+  <sub>AI Automation · Internal Systems · Web Applications · Business Websites</sub>
+</div>
 
-<p align="center"><sub>Figures are derived from the projects and career timeline documented in my portfolio source.</sub></p>
+<br />
+
+<img width="100%" src="./assets/build-system.svg" alt="Animated diagram showing Dzikri turning business problems into AI, systems, applications, and websites" />
 
 ## What I build
 
