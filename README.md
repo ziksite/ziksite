@@ -131,7 +131,7 @@ My work has moved from hands-on technical support and network planning into UI/U
 
 <div align="center">
 
-### Have a complex problem worth solving?
+### Have a complex problem worth solving??
 
 I can help turn it into a clear, scalable digital system.
 
