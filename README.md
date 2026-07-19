@@ -108,7 +108,7 @@ Today, I lead technology initiatives at **Banana Digital Boost**, build IT syste
 
 ```text
 2025 — Present  Head of New Technology · Banana Digital Boost
-2025 — Present  IT Engineer · Foodstocks
+2025 — Present  Software Engineer · Foodstocks
 2024            IT Network · PT Telkom Akses
 2023 — 2024     UI/UX Design · GMF AeroAsia
 2021 — 2023     Computer Lab Assistant · Universitas Serang Raya
