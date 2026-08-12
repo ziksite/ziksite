@@ -21,7 +21,7 @@
 
 I'm a Jakarta-based developer and technology lead working across **web development, internal platforms, AI automation, and digital transformation**. I don't stop at a polished interface—I map the workflow, connect the data, build the system, and make sure it solves the operational problem behind the brief.
 
-Today, I lead technology initiatives at **Banana Digital Boost**, build IT systems and automation for **Foodstocks**, and continue shipping digital products for organizations across finance, legal, healthcare, media, transport, retail, and public-sector-adjacent industries.
+Today, I lead technology initiatives at **PT Banana Digital Boost**, build IT systems and automation for **Foodstocks**, and continue shipping digital products for organizations across finance, legal, healthcare, media, transport, retail, and public-sector-adjacent industries.
 
 <br />
 
